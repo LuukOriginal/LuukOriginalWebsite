@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LuukOriginal.xyz/static/css/main.58e19660.css",
+    "main.js": "/LuukOriginal.xyz/static/js/main.598d01da.js",
+    "index.html": "/LuukOriginal.xyz/index.html",
+    "main.58e19660.css.map": "/LuukOriginal.xyz/static/css/main.58e19660.css.map",
+    "main.598d01da.js.map": "/LuukOriginal.xyz/static/js/main.598d01da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e19660.css",
+    "static/js/main.598d01da.js"
+  ]
+}

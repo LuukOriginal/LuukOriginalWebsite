@@ -1,2 +1,0 @@
-# LuukOriginal Website #
-Hello World!
